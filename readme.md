@@ -3,15 +3,6 @@
 Aplicação de terminal para a disciplina Computational Thinking with Python da FIAP,
 Global Solution 2026.2, CitizenTech.
 
-## Integrantes
-
-| Nome | RM |
-| --- | --- |
-| Gianluca Antonicci | 570081 |
-| Enzo Vieira Provenzano | 569696 |
-| João Vitor Rodrigues Costa | 569510 |
-| Matheus Marcondes Araújo | 573152 |
-
 ## Problema e solução
 
 Vazamentos e falta de água em casas e condomínios costumam ser percebidos apenas
